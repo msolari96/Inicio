@@ -1,0 +1,14 @@
+
+* git init - crea un nuevo repositorio
+
+* git clone - clona un repositorio ya existente
+
+* git add - agrega archivos al area de preparacion
+
+* git commit - guarda cambios en un repositorio.
+
+* git status - muestra la lista de los archivos modificados
+
+* git checkout - permite moverse de rama a rama
+
+* git push - envia confimaciones del repositorio local al remoto
